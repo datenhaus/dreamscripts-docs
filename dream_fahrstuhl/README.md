@@ -25,13 +25,14 @@ Elevators and teleporters for ESX servers. Players pick any floor directly on a 
 
 - `es_extended` (ESX Legacy)
 - `oxmysql`
+- `esx_textui` (ships with ESX Legacy, used for the "[E]" prompt through `ESX.TextUI`)
 
-Both are listed under `dependencies` in `fxmanifest.lua`. The resource folder is named `dream_fahrstuhl` (kept for compatibility with existing installations), the product name is Dream Elevator.
+`es_extended` and `oxmysql` are listed under `dependencies` in `fxmanifest.lua`. The resource folder is named `dream_fahrstuhl` (kept for compatibility with existing installations), the product name is Dream Elevator.
 
 ## Installation
 
 1. Put the folder `dream_fahrstuhl` into your `resources` folder. Do not rename it.
-2. Add `ensure dream_fahrstuhl` to your `server.cfg`, after `es_extended` and `oxmysql`.
+2. Add `ensure dream_fahrstuhl` to your `server.cfg`, after `es_extended`, `esx_textui` and `oxmysql`.
 3. Edit `config.lua` (admin groups, distances, theme).
 4. Start the server. The table `dream_fahrstuhl` is created automatically, no SQL import needed.
 
