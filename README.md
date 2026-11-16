@@ -4,6 +4,8 @@ Documentation for DreamScripts, FiveM scripts by DreamStudios.
 
 - Store: https://dreamscripts.tebex.store
 - Support Discord: https://discord.gg/XhHQkkXkFW
+- Docs website: https://datenhaus.github.io/dreamscripts-docs/
+- Launch week: -20 % until Sun 22 Nov 23:59 CET
 
 > Built with AI assistance, tested on our live roleplay server DreamRP (ESX Legacy). QBCore, Qbox and standalone support is marked as beta where it exists: tested in simulation, not yet on a live server.
 
@@ -14,7 +16,7 @@ Documentation for DreamScripts, FiveM scripts by DreamStudios.
 | Dream Cards | 1.1.1 | ESX Legacy | es_extended, oxmysql | [dream_tcg](./dream_tcg/README.md) |
 | Dream Moneywash | 1.1.2 | ESX Legacy | es_extended, oxmysql | [dream_moneywash](./dream_moneywash/README.md) |
 | Dream Billing | 1.1.6 | ESX Legacy | es_extended, oxmysql | [dream_billing](./dream_billing/README.md) |
-| Dream Elevator | 1.1.2 | ESX Legacy | es_extended, oxmysql | [dream_fahrstuhl](./dream_fahrstuhl/README.md) |
+| Dream Elevator | 1.1.2 | ESX Legacy | es_extended, oxmysql, esx_textui (ships with ESX) | [dream_fahrstuhl](./dream_fahrstuhl/README.md) |
 | Dream Scoreboard | 2.3.1 | ESX Legacy; QBCore, Qbox, Standalone (beta) | none | [dream_scoreboard](./dream_scoreboard/README.md) |
 | Dream Adminjail | 1.3.2 | ESX Legacy; QBCore, Qbox, Standalone (beta) | oxmysql | [dream_adminjail](./dream_adminjail/README.md) |
 
