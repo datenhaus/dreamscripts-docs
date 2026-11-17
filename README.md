@@ -20,6 +20,13 @@ Documentation for DreamScripts, FiveM scripts by DreamStudios.
 | Dream Scoreboard | 2.3.1 | ESX Legacy; QBCore, Qbox, Standalone (beta) | none | [dream_scoreboard](./dream_scoreboard/README.md) |
 | Dream Adminjail | 1.3.2 | ESX Legacy; QBCore, Qbox, Standalone (beta) | oxmysql | [dream_adminjail](./dream_adminjail/README.md) |
 
+## New (release Tue 17.11. 14:00)
+
+| Script | Version | Frameworks | Required resources | Docs |
+| --- | --- | --- | --- | --- |
+| Dream Loading | 1.0.0 | Standalone; ESX Legacy, QBCore optional | none | [dream_loading](./dream_loading/README.md) |
+| Dream Rules | 1.1.0 | Standalone; ESX Legacy, QBCore optional | none | [dream_rules](./dream_rules/README.md) |
+
 ## Free script
 
 | Script | Docs |
